@@ -2,8 +2,9 @@
 ## Tugas Akhir MK Sistem Basis Data
 #### Sistem Klinik (Rekam Medis)
 
-Nama  : Ade Muslim
-NIM : 312010147
+Nama          | : Ade Muslim
+------------- | -------------
+NIM           | : 312010147
 
 
 #### 1. Tampilan Dashboard
@@ -30,3 +31,4 @@ Jika user belum login maka akan di arahkan ke halaman login.
 
 #### 4. Tampil Data Rekam Medis (Berobat)
 ![data_berobat](https://user-images.githubusercontent.com/69449808/178914796-c5cf7e4f-f899-4c69-a7ee-72677ce96c7c.png)
+
