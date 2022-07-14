@@ -1,0 +1,78 @@
+.container {
+  height: 100vh;
+  position: relative;
+}
+
+.center {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+
+.notif {
+  font-size: x-small;
+  margin-top: 10px;
+}
+
+/* Login */
+.am {
+  margin: 0;
+  top: 96%;
+  left: 9%;
+  position: absolute;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+.am > h1 > img {
+  width: 40px;
+  margin-top: -24px;
+  margin-right: -9px;
+}
+.am > h1 {
+  color: rgb(9, 9, 115);
+  font-size: 12px;
+  font-weight: 200;
+}
+
+/* Dashboard */
+.header-dashboard {
+  text-align: center;
+  font-size: 42px;
+  color: rgb(36, 36, 37);
+}
+.header-dashboard > p {
+  font-size: 14px;
+}
+.header-dashboard > img {
+  width: 42px;
+  margin-top: -8px;
+}
+.pasien,
+.dokter,
+.obat,
+.kunjungan {
+  margin-top: 80px;
+  margin: 20px;
+  width: 120px;
+  padding: 12px;
+  float: left;
+  border-radius: 6%;
+}
+.pasien {
+  background-color: lightgreen;
+}
+.dokter {
+  background-color: skyblue;
+}
+.obat {
+  background-color: orange;
+}
+.kunjungan {
+  background-color: rgb(255, 127, 244);
+}
+.jml {
+  font-size: 40px;
+}
